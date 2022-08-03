@@ -1,6 +1,7 @@
 # Automatize Tarefas Maçantes com Python
 Essas são as minhas resoluções aos exercicios propostos no livro "Automatize tarefas maçantes com Python".
-Eu sou iniciante e tentei manter as resoluções da maneira mais simples possivel, também adicionei alguns projetos paralelos que me ajudaram a solidificar o conhecimento extraido do livro. Irei atualizar este repositório conforme o meu avanço no livro. 
+
+Eu sou iniciante e por isso, tentei manter as resoluções da maneira mais simples possivel, também adicionei alguns projetos paralelos que me ajudaram a solidificar o conhecimento extraido do livro. Irei atualizar este repositório conforme o meu avanço no livro. 
 
 # Automate the Boring Stuff with Python - Solutions
 
